@@ -8,7 +8,7 @@ hangcaihui's learning
 
 Third change
 <<<<<<< HEAD
-Creating a new branch is quick and simple.
+dsdsdsdsdsdreating a new branch is quick and simple.
 =======
  a new branch is quick AND simple.
 >>>>>>> future1
