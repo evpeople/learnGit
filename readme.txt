@@ -7,4 +7,4 @@ sddds
 hangcaihui's learning
 
 Third change
-Creating a new branch is quick AND simple.
+ a new branch is quick AND simple.
