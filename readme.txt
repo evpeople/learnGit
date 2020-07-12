@@ -3,9 +3,6 @@ Second change
 
 Another change
 
-sddds
-hangcaihui's learning
 
-Third change
 <<<<<<< HEAD
 >>>>>>> future1

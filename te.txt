@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 wo de ce ui and  
 =======
 wo de ce ui and  
 >>>>>>> feat
+=======
+wo de ce ui &  
+>>>>>>> 444133c... & te.txt
