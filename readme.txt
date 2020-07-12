@@ -7,4 +7,8 @@ sddds
 hangcaihui's learning
 
 Third change
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+ a new branch is quick AND simple.
+>>>>>>> future1
