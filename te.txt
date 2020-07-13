@@ -1,13 +1,13 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
+sss<<<<<< HEAD
 <<<<<<< HEAD
 wo de ce ui and  
-=======
+===ssss====
 wo de ce ui and  
 >>>>>>> feat
-=======
+=====sss==
 wo de ce ui &  
 >>>>>>> 444133c... & te.txt
-=======
+======sss=
 wo de ce ui &  
 >>>>>>> 444133c... & te.txt
