@@ -8,7 +8,4 @@ hangcaihui's learning
 
 Third change
 <<<<<<< HEAD
-dsdsdsdsdsdreating a new branch is quick and simple.
-=======
- a new branch is quick AND simple.
 >>>>>>> future1
