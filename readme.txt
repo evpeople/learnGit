@@ -3,7 +3,7 @@ Second change
 
 Another change
 
-sddds
-hangcaihui's learning
-ce,ui
+<<<<<<< Updated upstream
+
+>>>>>>> Stashed changes
 <<<<<<< HEAD
